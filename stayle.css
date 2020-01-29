@@ -41,16 +41,10 @@ h1 {
   font-family: sans-serif 'raleway';
   font-style: italic;
   font-size: 4em;
-  border-bottom: 2px solid pink;
-  border-right: 2px;
-  width: 250px;
+
+  
   text-align: center;
-  -moz-box-shadow:4px 4px 5px #888888;
-  -ms-box-shadow: 4px 4px 5px #888888;
-  -webkit-box-shadow:4px 4px 5px #888888;
-  -o-box-shadow:4px 4px 5px #888888;
-  box-shadow: 4px 4px 5px #888888;
-  margin:0px;
+  
 }
 @keyframes heartBeat {
   0% {
@@ -100,8 +94,8 @@ h1 {
 
 img {
 	direction: inline;
-	width: 400px;
-	height: 400px;
+	width: 100%;
+	height: 500px;
 	margin: 10px;
 	transition: all 0.5s;
 }
