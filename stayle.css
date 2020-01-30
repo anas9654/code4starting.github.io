@@ -43,8 +43,19 @@ h1 {
   font-size: 4em;
 
   
+  
   text-align: center;
   
+}
+.btn{
+  border-radius: 200px !important;
+  color: #0a8ef1;
+  border-color: chocolate !important;
+  font-family: "raleway" sans-serif !important;
+  font-size: 3rem;
+  padding: 1rem,2rem !important;
+
+text-transform: uppercase;
 }
 @keyframes heartBeat {
   0% {
