@@ -22,6 +22,19 @@ body{
   text-decoration: none;
   border-radius: 50%;
 }
+.container-flued{
+  text-align: center;
+  text-transform: uppercase;
+  color: #1c5875 !important;
+  font-style: "raleway" sans-serif;
+  font-style: italic;
+  font-stretch: bold;
+  background-color: #dee2e6;
+  margin: 0px;
+  margin-bottom: auto; !important; 
+ 
+
+}
 
 
 
